@@ -69,9 +69,10 @@
   
 如果你有疑问或建议，请发邮件至 izz11z@outlook.com 或者提交Issue
 
-###许可(License)
+### 许可(License)
 本文采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh "知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议")  
-
+  
+  
 引用/转载请标明出处，谢谢合作
 
 ![郑州十一中logo.png](https://s1.ax1x.com/2020/03/23/87041S.png)
